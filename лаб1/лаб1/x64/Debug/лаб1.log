@@ -1,0 +1,4 @@
+﻿  лаб1.cpp
+C:\Users\budko_fomf69o\Desktop\С++\лаб1\лаб1.cpp(12,41): error C2065: 'M_PI': undeclared identifier
+C:\Users\budko_fomf69o\Desktop\С++\лаб1\лаб1.cpp(12,61): error C2065: 'M_PI': undeclared identifier
+C:\Users\budko_fomf69o\Desktop\С++\лаб1\лаб1.cpp(24,1): error C2059: syntax error: '/'
